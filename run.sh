@@ -1,0 +1,1 @@
+docker run -it sml:ubuntu-18.04 bash

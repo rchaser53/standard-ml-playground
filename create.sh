@@ -1,0 +1,1 @@
+docker build -t sml:ubuntu-18.04 .
